@@ -1,0 +1,8 @@
+C:\Trampo\zenvia-sms\ZennviaSMSLib\bin\Debug\netstandard2.0\ZenviaSMSLib.deps.json
+C:\Trampo\zenvia-sms\ZennviaSMSLib\bin\Debug\netstandard2.0\ZenviaSMSLib.dll
+C:\Trampo\zenvia-sms\ZennviaSMSLib\bin\Debug\netstandard2.0\ZenviaSMSLib.pdb
+C:\Trampo\zenvia-sms\ZennviaSMSLib\obj\Debug\netstandard2.0\ZenviaSMSLib.AssemblyInfoInputs.cache
+C:\Trampo\zenvia-sms\ZennviaSMSLib\obj\Debug\netstandard2.0\ZenviaSMSLib.AssemblyInfo.cs
+C:\Trampo\zenvia-sms\ZennviaSMSLib\obj\Debug\netstandard2.0\ZenviaSMSLib.dll
+C:\Trampo\zenvia-sms\ZennviaSMSLib\obj\Debug\netstandard2.0\ZenviaSMSLib.pdb
+C:\Trampo\zenvia-sms\ZennviaSMSLib\obj\Debug\netstandard2.0\ZenviaSMSLib.csproj.CoreCompileInputs.cache

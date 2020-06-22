@@ -252,9 +252,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Trampo\\zenvia-sms\\ZennviaSMSLib\\ZennviaSMSLib.csproj",
-      "projectName": "ZennviaSMSLib",
-      "projectPath": "C:\\Trampo\\zenvia-sms\\ZennviaSMSLib\\ZennviaSMSLib.csproj",
+      "projectUniqueName": "C:\\Trampo\\zenvia-sms\\ZennviaSMSLib\\ZenviaSMSLib.csproj",
+      "projectName": "ZenviaSMSLib",
+      "projectPath": "C:\\Trampo\\zenvia-sms\\ZennviaSMSLib\\ZenviaSMSLib.csproj",
       "packagesPath": "C:\\Users\\Lin\\.nuget\\packages\\",
       "outputPath": "C:\\Trampo\\zenvia-sms\\ZennviaSMSLib\\obj\\",
       "projectStyle": "PackageReference",

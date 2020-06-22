@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QILntKYl2bJVlT/hhdsKnPFDqK60kFXdWptZJNNiwH7i23rfmRXxbCUUDUKxVh9vXo9jUQVG9DiuM0jJH1lPvA==",
+  "dgSpecHash": "Zd0f+B8b+nFWYKwJQzWPWhlqRWwazXH6SW9cs8dHFCQyMirtSnC7pfjUjj/TSujsMvensblGcyE5hRXOzPoZgQ==",
   "success": true,
-  "projectFilePath": "C:\\Trampo\\zenvia-sms\\ZennviaSMSLib\\ZennviaSMSLib.csproj",
+  "projectFilePath": "C:\\Trampo\\zenvia-sms\\ZennviaSMSLib\\ZenviaSMSLib.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
