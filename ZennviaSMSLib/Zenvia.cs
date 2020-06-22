@@ -18,11 +18,11 @@ namespace ZennviaSMSLib
 
         }
 
-        public Zenvia(string account, string password)
+        public Zenvia(string apiurl, string account, string password)
         {
             Account = account;
             Password = password;
-
+            BaseUrlApi = apiurl;
             Authorization += Convert.ToBase64String(Encoding.ASCII.GetBytes(Account + ":" + Password));
 
         }
@@ -34,6 +34,7 @@ namespace ZennviaSMSLib
             var request = new RestRequest(Method.POST);
             request.AddHeader("Authorization", Authorization);
             request.AddHeader("Content-Type", "application/json");
+            request.AddHeader("Accept", "application/json");
             request.AddParameter("application/json", requestObj, ParameterType.RequestBody);
             IRestResponse response = client.Execute(request);
 
