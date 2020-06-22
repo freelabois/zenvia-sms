@@ -30,6 +30,7 @@ namespace ZennviaSMSLib
 
         private string Execute(string apiRoute, object requestObj)
         {
+            
             var client = new RestClient(BaseUrlApi + apiRoute);
             var request = new RestRequest(Method.POST);
             request.AddHeader("Authorization", Authorization);
@@ -37,6 +38,11 @@ namespace ZennviaSMSLib
             request.AddHeader("Accept", "application/json");
             request.AddParameter("application/json", requestObj, ParameterType.RequestBody);
             IRestResponse response = client.Execute(request);
+
+            if (response.StatusCode == System.Net.HttpStatusCode.Unauthorized)
+            {
+                throw new Exception(response.Content);
+            }
 
             return response.Content;
         }
