@@ -12,7 +12,7 @@ namespace ZennviaSMSLib
         private string Account;
         private string Password;
         private string BaseUrlApi = "https://api-rest.zenvia.com/services/";
-
+        //teste
         public Zenvia()
         {
 
