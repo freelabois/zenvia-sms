@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Zd0f+B8b+nFWYKwJQzWPWhlqRWwazXH6SW9cs8dHFCQyMirtSnC7pfjUjj/TSujsMvensblGcyE5hRXOzPoZgQ==",
+  "success": true,
+  "projectFilePath": "C:\\Trampo\\zenvia-sms\\ZennviaSMSLib\\ZenviaSMSLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Lin\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Lin\\.nuget\\packages\\restsharp\\106.11.4\\restsharp.106.11.4.nupkg.sha512"
+  ],
+  "logs": []
+}

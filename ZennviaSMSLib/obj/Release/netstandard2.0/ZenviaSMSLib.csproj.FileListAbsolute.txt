@@ -1,0 +1,9 @@
+C:\Trampo\zenvia-sms\ZennviaSMSLib\bin\Release\netstandard2.0\ZenviaSMSLib.deps.json
+C:\Trampo\zenvia-sms\ZennviaSMSLib\bin\Release\netstandard2.0\ZenviaSMSLib.dll
+C:\Trampo\zenvia-sms\ZennviaSMSLib\bin\Release\netstandard2.0\ZenviaSMSLib.pdb
+C:\Trampo\zenvia-sms\ZennviaSMSLib\obj\Release\netstandard2.0\ZenviaSMSLib.csprojAssemblyReference.cache
+C:\Trampo\zenvia-sms\ZennviaSMSLib\obj\Release\netstandard2.0\ZenviaSMSLib.csproj.CoreCompileInputs.cache
+C:\Trampo\zenvia-sms\ZennviaSMSLib\obj\Release\netstandard2.0\ZenviaSMSLib.AssemblyInfoInputs.cache
+C:\Trampo\zenvia-sms\ZennviaSMSLib\obj\Release\netstandard2.0\ZenviaSMSLib.AssemblyInfo.cs
+C:\Trampo\zenvia-sms\ZennviaSMSLib\obj\Release\netstandard2.0\ZenviaSMSLib.dll
+C:\Trampo\zenvia-sms\ZennviaSMSLib\obj\Release\netstandard2.0\ZenviaSMSLib.pdb
