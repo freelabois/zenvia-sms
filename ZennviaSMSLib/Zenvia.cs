@@ -50,7 +50,8 @@ namespace ZennviaSMSLib
 
         public SmsResponse SendSMS(SendSmsRequest sendSmsRequest)
         {
-            var obj = JsonConvert.DeserializeObject<SmsResponse>(Execute("send-sms", sendSmsRequest));
+            SmsResquest smsResquest = new SmsResquest() { sendSmsRequest = sendSmsRequest};
+            var obj = JsonConvert.DeserializeObject<SmsResponse>(Execute("send-sms", smsResquest));
             return obj;
         }
 

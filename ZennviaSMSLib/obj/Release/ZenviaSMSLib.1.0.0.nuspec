@@ -6,7 +6,11 @@
     <authors>ZenviaSMSLib</authors>
     <owners>ZenviaSMSLib</owners>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="file">LICENSE.txt</license>
+    <licenseUrl>https://aka.ms/deprecateLicenseUrl</licenseUrl>
+    <projectUrl>https://github.com/freelabois/zenvia-sms</projectUrl>
     <description>Package Description</description>
+    <repository url="https://github.com/freelabois/zenvia-sms" />
     <dependencies>
       <group targetFramework=".NETStandard2.0">
         <dependency id="Newtonsoft.Json" version="12.0.3" exclude="Build,Analyzers" />
@@ -16,5 +20,6 @@
   </metadata>
   <files>
     <file src="C:\Trampo\zenvia-sms\ZennviaSMSLib\bin\Release\netstandard2.0\ZenviaSMSLib.dll" target="lib\netstandard2.0\ZenviaSMSLib.dll" />
+    <file src="C:\Trampo\zenvia-sms\ZennviaSMSLib\Archives\LICENSE.txt" target="LICENSE.txt" />
   </files>
 </package>

@@ -2,11 +2,36 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+    <SignAssembly>false</SignAssembly>
+    <PackageLicenseExpression></PackageLicenseExpression>
+    <PackageProjectUrl>https://github.com/freelabois/zenvia-sms</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/freelabois/zenvia-sms</RepositoryUrl>
+    <Version>1.0.0</Version>
+    <PackageLicenseFile>LICENSE.txt</PackageLicenseFile>
   </PropertyGroup>
 
   <ItemGroup>
     <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
     <PackageReference Include="RestSharp" Version="106.11.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+    </EmbeddedResource>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Service Include="{508349b6-6b84-4df5-91f0-309beebad82d}" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="Archives\LICENSE.txt">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
   </ItemGroup>
 
 </Project>
