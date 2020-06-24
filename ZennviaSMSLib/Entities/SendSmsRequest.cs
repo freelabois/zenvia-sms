@@ -10,9 +10,9 @@ namespace ZennviaSMSLib.Entities
         public string to { get; set; }
         public string schedule { get; set; }
         public string msg { get; set; }
-        public string callBackOption { get; set; }
+        public string callbackOption { get; set; }
         public string id { get; set; }
-        public string aggregatedId { get; set; }
+        public string aggregateId { get; set; }
         public bool flashSms { get; set; }
     }
 }

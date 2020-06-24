@@ -1,15 +1,13 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using ZenviaSMSLib.Entities;
 
 namespace ZennviaSMSLib.Entities
 {
     public class SmsResponse
     {
-        public string statusCode { get; set; }
-        public string statusDescription { get; set; }
-        public string detailCode { get; set; }
+        public SendSmsResponse sendSmsResponse { get; set; }
 
-        public string detailDescription { get; set; }
     }
 }
